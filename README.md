@@ -74,7 +74,7 @@ const courses = [
 # 操作演示
 **demo.mp4**
 
-[demo](demo.png)
+![demo](demo.png)
 
 # 代码参考
 代码参考厦大新生入学答题脚本https://github.com/wangzexi/yiban-assistant
